@@ -1,0 +1,16 @@
+<?php
+//new COM ("CrystalRuntime.Application.11")
+//exemple:
+
+
+$crapp = new COM ("CrystalRuntime.Application") or die ("Error on
+load");
+$creport = $crapp->OpenReport("c:/test.rpt", 1);
+$creport->ExportOptions->DiskFileName="c:/test.rtf";
+$creport->ExportOptions->DestinationType=1; // Export to File
+$creport->ExportOptions->FormatType=4; // Type: RTF
+$creport->DiscardSavedData();
+$creport->Export(false);
+
+print "...done";
+?>

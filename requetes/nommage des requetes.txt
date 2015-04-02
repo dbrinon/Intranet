@@ -1,0 +1,18 @@
+Le nom des requêtes est organisé de cette façon:
+
+
+[SERVICE1-SERVICE2]_EXPLOITATION_[nom_cour].php
+
+
+Exemple:
+INFO_FDM_eclatement_client_article.php
+ORDO-ACHAT_RAL_blablabla.php
+
+N'employer que les lettres [A-Z], [a-z], [0-9], et les caractères spéciaux - et _
+
+
+
+Eviter d'employer les mots:
+-par, de, pour... qui allourdissent inutilement le nom de la requete.
+-Extraction: on se doute bien qu'une requete a pour but d'extraire des données
+

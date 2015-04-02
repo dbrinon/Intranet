@@ -1,0 +1,17 @@
+<tr>
+	<td colspan="3" width="530" >
+		<p align="left" width="528">
+			<font face="small fonts, MS sans serif" size="1" color="#515151">
+				<small>
+					<small>
+						<hr width="100%" />
+							Ce message ou ses pièces jointes peuvent contenir des informations confidentielles à l'intention exclusive de son destinataire et sont couverts par le secret professionnel. Toute utilisation, divulgation ou reproduction de son contenu sont strictement interdites. Si vous avez reçu ce message par erreur, merci de le notifier à son expéditeur et d'en détruire toute copie. Le présent message pouvant être altéré à notre insu, la société LATTY INTERNATIONAL S.A. ne peut pas être engagée par son contenu.<br/>
+							<br/>
+							This message or these attached documents could contain confidential information which is intended exclusively for the designated person and is of a strictly confidential nature. All usage , disclosure or reproduction of the message and its contents is strictly forbidden .If you have received this message by error , please notify the sender and destroy any copy. The existing message could be altered without our intention . The company LATTY International S.A. cannot be engaged by it's contents.<br/>
+						<hr width="100%"/>
+					</small>
+				</small>
+			</font>
+		</p>
+	</td>
+</tr>

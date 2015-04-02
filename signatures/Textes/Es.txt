@@ -1,0 +1,17 @@
+<tr>
+	<td colspan="3" width="530" >
+		<p align="left" width="528">
+			<font face="small fonts, MS sans serif" size="1" color="#515151">
+				<small>
+					<small>
+						<hr width="100%" />
+							Este mensaje o sus elementos adjuntos pueden contener informaciones confidenciales dirigidas exclusivamente a su destinatario y están cubiertas por el secreto profesional. Queda prohibida cualquier utilización, divulgación  o reproducción de su contenido . Si ha recibido este mensaje por error  le rogamos lo notifique al remitente y destruya toda copia. El presente mensaje puede haber sido alterado sin nuestra autorización, la empresa Estanqueidad LATTY Ibérica, S.L. no puede comprometerse por su contenido.<br/>
+							<br/>
+							This message or these attached documents could contain confidential information which is intended exclusively for the designated person and is of a strictly confidential nature. All usage , disclosure or reproduction of the message and its contents is strictly forbidden .If you have received this message by error , please notify the sender and destroy any copy. The existing message could be altered without our intention . The company LATTY International S.A. cannot be engaged by it's contents.<br/>
+						<hr width="100%"/>
+					</small>
+				</small>
+			</font>
+		</p>
+	</td>
+</tr>
